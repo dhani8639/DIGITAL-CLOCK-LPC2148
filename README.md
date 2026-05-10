@@ -1,2 +1,0 @@
-# DIGITAL-CLOCK-LPC2148
-ARM7 LPC2148 Digital Clock Project
